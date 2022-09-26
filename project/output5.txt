@@ -1,0 +1,77 @@
+Frame #:  1
+Live Person tracked: 6
+Total Person count: 0
+FPS: 0.86
+Frame #:  2
+Live Person tracked: 6
+Total Person count: 0
+FPS: 2.19
+Frame #:  3
+Live Person tracked: 6
+Total Person count: 6
+FPS: 2.25
+Frame #:  4
+Live Person tracked: 6
+Total Person count: 6
+FPS: 2.22
+Frame #:  5
+Live Person tracked: 6
+Total Person count: 6
+FPS: 2.28
+Frame #:  6
+Live Person tracked: 6
+Total Person count: 6
+FPS: 2.21
+Frame #:  7
+Live Person tracked: 6
+Total Person count: 6
+FPS: 2.29
+Frame #:  8
+Live Person tracked: 6
+Total Person count: 6
+FPS: 2.28
+Frame #:  9
+Live Person tracked: 6
+Total Person count: 6
+FPS: 1.91
+Frame #:  10
+Live Person tracked: 6
+Total Person count: 6
+FPS: 1.65
+Frame #:  11
+Live Person tracked: 6
+Total Person count: 6
+FPS: 1.68
+Frame #:  12
+Live Person tracked: 6
+Total Person count: 6
+FPS: 1.71
+Frame #:  13
+Live Person tracked: 6
+Total Person count: 6
+FPS: 1.70
+Frame #:  14
+Live Person tracked: 6
+Total Person count: 6
+FPS: 1.66
+Frame #:  15
+Live Person tracked: 6
+Total Person count: 6
+FPS: 1.67
+Frame #:  16
+Live Person tracked: 5
+Total Person count: 6
+FPS: 1.75
+Frame #:  17
+Live Person tracked: 5
+Total Person count: 6
+FPS: 1.62
+Frame #:  18
+Live Person tracked: 5
+Total Person count: 6
+FPS: 1.65
+Frame #:  19
+Live Person tracked: 5
+Total Person count: 6
+FPS: 1.70
+Frame #:  20
